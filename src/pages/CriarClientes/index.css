@@ -1,0 +1,12 @@
+.body{
+    display: flex;
+    max-width: 100%;
+    padding: 20px;
+    justify-content: center;
+}
+.box{
+    width: 50%;
+}
+.box-input{
+    padding: 0 0 20px;
+}
